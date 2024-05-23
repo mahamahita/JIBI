@@ -828,7 +828,7 @@ header .navbar {
     overflow: hidden;
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: end; 
     border-radius: 50%; 
     margin: 0 auto; 
 }
